@@ -1,6 +1,11 @@
-# moc-app
+## Silicon orchard ltd - Assignment (Frontend-task-1)
+
+## Author - Md Arifuzzaman
+
+## email - arifuzzamanarif42@gmail.com
 
 ## Project setup
+## Git clone: git clone https://github.com/Arif46/frontend-vue-js.git
 ```
 npm install
 ```
