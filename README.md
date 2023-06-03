@@ -30,3 +30,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## assingment view
 ![CHEESE!](view-page.jpg)
+## file structure image
+![CHEESE!](code-structure-image.JPG)
